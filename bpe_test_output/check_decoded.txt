@@ -1,0 +1,18 @@
+<|endoftext|>A quiet reader opened a new notebook beside the blue window.
+The small cat watched the rain. A new word appears here: moonlitbookshop.
+hello hello world! banana bandana; abab ababa aaaa acac.
+<|endoftext|>今天，小林和妹妹一起读书。小猫看着窗外，小狗安静地坐在旁边。
+中英文混合：I have 3 books，价格分别是 12.50、8.00 和 21.75。
+你好世界！学习需要耐心，也需要自己检查结果。
+<|endoftext|>I'm ready. I'M READY. We're learning; WE'RE LEARNING.
+café / café / naïve / résumé / 日本語 / 한국어
+Emoji: 🙂 🐱 🚀 👩‍💻
+One space: a b
+Two spaces: a  b
+A tab: a	b
+    Four leading spaces.
+
+There is an empty line above this sentence.
+Symbols: < > | & + - = [ ] { } ( ).
+An incomplete marker stays ordinary: <|endoftext
+<|endoftext|><|endoftext|>最后一行：再见，goodbye！<|endoftext|>
